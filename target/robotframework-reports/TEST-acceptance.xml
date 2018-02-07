@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="7" skip="0" tests="7" name="Acceptance" errors="0">
+<testcase classname="Acceptance.CBSBO 1003" name="Subcriptor Invalido" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1004" name="Campo Vacio" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1005" name="Carateres No Validos" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1006" name="Subcriptor Valido" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1007" name="Saldo Billeteras" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1008" name="Visualizar Trafico" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+<testcase classname="Acceptance.CBSBO 1009" name="Subcriptor Invalido" time="0">
+<failure message="No keyword with name 'Open Browser' found." type="AssertionError"></failure>
+</testcase>
+</testsuite>
