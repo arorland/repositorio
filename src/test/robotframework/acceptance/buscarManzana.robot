@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation  prueba de busqueda en gooogle.
-Library  Selenium2Library
+Library  SeleniumLibrary
 #Metadata   Here is a link    http://www.external.com/pages.html
 Metadata   Here is a link    C:\Users\hp\Desktop\robot Framework\testGoogle1
 
